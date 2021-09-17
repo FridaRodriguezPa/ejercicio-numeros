@@ -1,0 +1,17 @@
+.numeros{
+    display: flex;
+    background-color: aquamarine;
+    padding: 10px;
+    border: 2px solid black;
+    flex-wrap: wrap;
+}
+.numeros div{
+background-color: lavenderblush;
+width: 200px;
+height: 100px;
+margin: 40px;
+text-align: center;
+line-height: 75px;
+font-size: 80px;
+border: 2px solid black;
+}
